@@ -1,5 +1,5 @@
 # Operating-system-Kernel-8086
-School project - subject Operating Systems 1, School of Electrical Engineering, University of Belgrade, .
+School project - subject Operating Systems 1, School of Electrical Engineering, University of Belgrade, december 2019.
 
 Realization of functional kernel of an operating system with time-sharing threads, for x8086 based processors. Concepts: PCB, Threads, Interrupts, Semaphores, Events.
 
